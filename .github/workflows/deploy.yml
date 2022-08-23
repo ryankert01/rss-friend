@@ -2,14 +2,13 @@ name: scrape rss from friends
 
 on:
   push:
-    branches: - main
+    branches: main
   pull_request:
-    branches: - main
+    branches: main
 
 jobs:
-  run-action:
-    name: run action
-    run-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
