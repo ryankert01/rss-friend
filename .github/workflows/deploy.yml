@@ -2,9 +2,9 @@ name: scrape rss from friends
 
 on:
   push:
-    branches: -main
+    branches: - main
   pull_request:
-    branches: -main
+    branches: - main
 
 jobs:
   run-action:
