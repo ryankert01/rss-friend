@@ -1,0 +1,16 @@
+{
+  "name": "rss-friend",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "tsc main.ts",
+    "run": "node main.js",
+    "dev": "tsc main.ts & node main.js"
+  },
+  "dependencies": {
+    "@types/node": "^18.7.9",
+    "rss-to-json": "^2.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
