@@ -42,7 +42,7 @@ at (UTC+8) 9:00 and 21:00
 ]
 ```
 
-3. Until it generate file sussessfully, it will generate a new branch automatically. Then, you setup your github page to display the branch `gh-page`.
+3. Until it generate file sussessfully, it will generate a new branch automatically. Then, you setup your github page to display the branch `gh-pages`.
 
 It will be display at `https://<github-username>.github.io/rss-friend/<file>`.
 
