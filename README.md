@@ -48,10 +48,12 @@ sorted.json    // sorted json universal date ex:2022-08-22T17:47:35.000Z
 unsort.json    // unsort raw data
 ```
 
-API:
+APIs:
 
 https://www.ryankert.cc/rss-friend/rss.json
+
 https://www.ryankert.cc/rss-friend/sorted.json
+
 https://www.ryankert.cc/rss-friend/unsort.json
 
 
