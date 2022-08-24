@@ -2,7 +2,7 @@
 
 ## Usage
 
-Collect RSS data from my friends' blog and convert it to sort-by-date JSON data set, like this:
+Collect RSS data from my friends' blog and convert it to out-of-the-box, sort-by-nearest-date JSON data set, like this:
 
 ```json
 [
