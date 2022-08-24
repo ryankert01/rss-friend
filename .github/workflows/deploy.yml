@@ -2,9 +2,11 @@ name: scrape rss from friends
 
 on:
   push:
-    branches: main
+    branches: 
+      - main
   pull_request:
-    branches: main
+    branches: 
+      - main
 
 jobs:
   build:
@@ -17,3 +19,8 @@ jobs:
           node-version: 16
       - run: npm i
       - run: npm run dev
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: assests
