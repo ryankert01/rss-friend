@@ -19,6 +19,12 @@ Collect RSS data from my friends' blog and convert it to sort-by-date JSON data 
 ]
 ```
 
+## Auto Update
+
+at (UTC) 1:00 and 13:00
+
+at (UTC+8) 9:00 and 21:00
+
 ## How to use it
 
 1. Fork this repository
