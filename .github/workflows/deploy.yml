@@ -20,7 +20,10 @@ jobs:
         with:
           node-version: 16
       - run: npm i
-      - run: npm run dev
+      - name: Compile
+        run: npm run watch
+      - name: Run
+        run: npm run run
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
