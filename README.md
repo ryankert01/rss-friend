@@ -7,14 +7,19 @@ Collect RSS data from my friends' blog and convert it to out-of-the-box, sort-by
 ```json
 [
   {
-    "title": "Youtube Thumbnail Scraping",
-    "link": "https://blog.ryankert.cc/2022/04/20/youtube-thumbnail-scraping/",
-    "date": "2022-07-23T13:14:39.835Z"
-  },
-  {
     "title": "Download Google font and use it in offline html",
     "link": "https://blog.ryankert.cc/2022/04/18/google-font-offline/",
-    "date": "2022-07-23T13:14:39.835Z"
+    "date": "2022-08-24T17:40:53.489Z",
+    "author": { "name": "Ryan's Blog", "link": "https://blog.ryankert.cc/" }
+  },
+  {
+    "title": "將其他 blog 的文章連結到 Jeykyll blog",
+    "link": "https://titaliu1224.github.io//posts/link_to_other_blog/",
+    "date": "2022-08-22T17:47:35.000Z",
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titsliu1224.github.io/"
+    }
   },
 ]
 ```
