@@ -79,5 +79,6 @@ npm i
 ### To generate JSON file
 
 ```zsh
-npm run dev
+npm run watch
+npm run run
 ```
