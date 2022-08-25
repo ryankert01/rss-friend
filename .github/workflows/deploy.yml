@@ -2,13 +2,13 @@ name: scrape rss from friends
 
 on:
   push:
-    branches: 
+    branches:
       - main
   pull_request:
-    branches: 
+    branches:
       - main
   schedule:
-    - cron: '0 1,13 * * *'
+    - cron: "0 1,13 * * *"
 
 jobs:
   build:
@@ -22,7 +22,7 @@ jobs:
       - run: npm i
       - name: Compile
         run: npm run watch
-      - name: Run
+      - name: Generate JSON
         run: npm run run
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
