@@ -13,7 +13,12 @@
         "title": "RK's Blog",
         "link": "https://blog.ohtoai.fun/",
         "feed": "https://blog.ohtoai.fun/feed.xml"
-    }
+    },
+    {
+        "title": "idealclover",
+        "link": "https://idealclover.top/",
+        "feed": "https://idealclover.top/feed",
+    },
 ]
 
 
