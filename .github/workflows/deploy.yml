@@ -21,9 +21,9 @@ jobs:
           node-version: 16
       - run: npm i
       - name: Compile
-        run: npm run watch
+        run: npm run compile
       - name: Generate JSON
-        run: npm run run
+        run: npm run start
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
