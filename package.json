@@ -1,16 +1,19 @@
 {
-  "name": "rss-friend",
+  "name": "rss-blog",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "watch": "tsc main.ts",
-    "run": "node main.js",
-    "dev": "tsc main.ts & node main.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "compile": "tsc",
+    "start": "node dist/main.js"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.7.9",
-    "rss-to-json": "^2.1.0"
-  },
-  "devDependencies": {
-    "typescript": "^4.7.4"
+    "@types/node": "^18.7.14",
+    "rss-to-json": "^2.1.0",
+    "typescript": "^4.8.2"
   }
 }
