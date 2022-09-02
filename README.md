@@ -34,7 +34,7 @@ at (UTC+8) 9:00 and 21:00
 
 1. Fork this repository
 
-2. install your friends' rss pages into this file (./_rss_data/friends.json), in this format:
+2. install your friends' rss pages into this file (`./_data/friends.json`), in this format:
 
 ```json
 [
