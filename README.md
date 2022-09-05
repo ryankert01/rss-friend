@@ -26,9 +26,9 @@ Collect RSS data from my friends' blog and convert it to out-of-the-box, sort-by
 
 ## Auto Update
 
-at (UTC) 1:00 and 13:00
+at (UTC) 10:00 and 22:00
 
-at (UTC+8) 9:00 and 21:00
+at (UTC+8) 6:00 and 18:00
 
 ## How to use it
 
