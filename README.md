@@ -59,6 +59,9 @@ sorted.json    // sorted json universal date ex:2022-08-22T17:47:35.000Z
 unsort.json    // unsort raw data
 ```
 
+> **Warning**
+> You have to manually enable github action, which forked repositories is disabled by default.
+
 APIs:
 
 https://www.ryankert.cc/rss-friend/rss.json
