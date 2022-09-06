@@ -60,7 +60,7 @@ unsort.json    // unsort raw data
 ```
 
 > **Warning**
-> You have to manually enable github action, which forked repositories is disabled by default.
+> You have to manually enable github action, which forked repositories disabled by default.
 
 APIs:
 
