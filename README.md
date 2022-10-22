@@ -71,7 +71,7 @@ https://www.ryankert.cc/rss-friend/sorted.json
 https://www.ryankert.cc/rss-friend/unsort.json
 
 
-## Development:
+## Development: (dev)
 
 ### To install dependencies
 
