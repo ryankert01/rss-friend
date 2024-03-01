@@ -64,11 +64,11 @@ unsort.json    // unsort raw data
 
 APIs:
 
-https://www.ryankert.cc/rss-friend/rss.json
+https://ryankert01.github.io/rss-friend/rss.json
 
-https://www.ryankert.cc/rss-friend/sorted.json
+https://ryankert01.github.io/rss-friend/sorted.json
 
-https://www.ryankert.cc/rss-friend/unsort.json
+https://ryankert01.github.io/rss-friend/unsort.json
 
 
 ## Development: (dev)
