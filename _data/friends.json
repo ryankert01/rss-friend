@@ -28,5 +28,10 @@
     "title": "hyperbola",
     "link": "https://blog.hyperbola.me/",
     "feed": "https://blog.hyperbola.me/index.xml"
+  },
+  {
+    "title": "Ryan Lite",
+    "link": "https://light.ryankert.cc/",
+    "feed": "https://light.ryankert.cc/index.xml"
   }
 ]
