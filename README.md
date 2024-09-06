@@ -1,8 +1,8 @@
-# rss-friend: Collects RSS data from my friends' blog
+# RSS Blog Friend: Collects recent posts from your friends' blogs
 
 ## Usage
 
-Collect RSS data from my friends' blog and convert it to out-of-the-box, sort-by-nearest-date JSON data set, like this:
+Collect RSS post data from my friends' blogs and convert it to out-of-the-box, sort-by-nearest-date JSON data set, like this:
 
 ```json
 [
