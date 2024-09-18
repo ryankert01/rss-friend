@@ -33,5 +33,10 @@
     "title": "Ryan Lite",
     "link": "https://light.ryankert.cc/",
     "feed": "https://light.ryankert.cc/index.xml"
-  }
+  },
+  {
+    "title": "Louie Lu",
+    "link": "https://blog.louie.lu/",
+    "feed": "https://blog.louie.lu/feed/"
+  },
 ]
