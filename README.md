@@ -23,6 +23,7 @@ Collect RSS post data from my friends' blogs and convert it to out-of-the-box, s
   },
 ]
 ```
+*having a maximum display posts of 30
 
 ## Auto Update
 
