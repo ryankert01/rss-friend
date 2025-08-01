@@ -82,7 +82,12 @@ npm i
 
 ### To generate JSON file
 
+compile typescript to javascript
 ```zsh
-npm run watch
-npm run run
+npm run compile
+```
+
+run the script to generate JSON file
+```zsh
+npm run start
 ```
