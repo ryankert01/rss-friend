@@ -1,5 +1,16 @@
 [
   {
+    "title": "再赴一场盛夏：写给下一个五年",
+    "link": "https://idealclover.top/archives/644/",
+    "year": 2025,
+    "month": 8,
+    "day": 31,
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
     "title": "GPU 100 day challenge - Mojo gpu puzzle: GPU fundamental",
     "link": "https://light.ryankert.cc/p/gpu-100-day-challenge-mojo-gpu-puzzle-gpu-fundamental/",
     "year": 2025,
@@ -316,17 +327,6 @@
     "author": {
       "name": "Ryan's Blog",
       "link": "https://blog.ryankert.cc/"
-    }
-  },
-  {
-    "title": "記 2023",
-    "link": "https://luke2336.github.io/p/2023/",
-    "year": 2023,
-    "month": 1,
-    "day": 25,
-    "author": {
-      "name": "Luke",
-      "link": "https://luke2336.github.io/"
     }
   }
 ]
