@@ -38,5 +38,10 @@
     "title": "Tyler Romero",
     "link": "https://www.tylerromero.com/",
     "feed": "https://www.tylerromero.com/feed.xml"
-  }
+  },
+  {
+    "title": "Kyo",
+    "link": "https://blog.kyomind.tw/",
+    "feed": "https://blog.kyomind.tw/atom.xml"
+  },
 ]
