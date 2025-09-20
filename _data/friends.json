@@ -44,4 +44,9 @@
     "link": "https://blog.kyomind.tw/",
     "feed": "https://blog.kyomind.tw/atom.xml"
   },
+  {
+    "title": "Joyce",
+    "link": "https://joyceinthebay.com/",
+    "feed": "https://joyceinthebay.com/feed/"
+  },
 ]
