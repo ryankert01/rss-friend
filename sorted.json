@@ -1,0 +1,272 @@
+[
+  {
+    "title": "2025 我離不開的 8 項付費訂閱",
+    "link": "https://blog.kyomind.tw/essential-subscriptions-2025/",
+    "date": "2025-09-20T00:42:48Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "再赴一场盛夏：写给下一个五年",
+    "link": "https://idealclover.top/archives/644/",
+    "date": "2025-08-31T13:25:00Z",
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "用 Side Project 學 CI：WeaMind 的 CI 實作策略",
+    "link": "https://blog.kyomind.tw/weamind-ci/",
+    "date": "2025-08-31T06:56:59Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "在 Hetzner 開新 VM 指南：選機房、SSH 連線、設定防火牆",
+    "link": "https://blog.kyomind.tw/hetzner-vm/",
+    "date": "2025-07-27T15:03:31Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "uv 容器化實作：使用官方 image 建立 Dockerfile",
+    "link": "https://blog.kyomind.tw/uv-dockerfile/",
+    "date": "2025-07-19T07:15:27Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "Vibe Coding 與人類的時代",
+    "link": "https://blog.kyomind.tw/vibe-coding/",
+    "date": "2025-07-10T14:22:29Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "GitHub Actions 入門：自動化 Lint、Format 與 Type Check",
+    "link": "https://blog.kyomind.tw/github-actions/",
+    "date": "2025-07-06T02:31:27Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "GPU 100 day challenge - Mojo gpu puzzle: GPU fundamental",
+    "link": "https://light.ryankert.cc/p/gpu-100-day-challenge-mojo-gpu-puzzle-gpu-fundamental/",
+    "date": "2025-06-29T14:02:49Z",
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "yadm 教學：實作 macOS 與 Linux 的 dotfiles 跨平台同步",
+    "link": "https://blog.kyomind.tw/yadm-cross-platform/",
+    "date": "2025-06-28T15:01:29Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "客製化 PowerShell！讓你的終端變得好看又好用",
+    "link": "https://titaliu1224.github.io/posts/customize_your_powershell/",
+    "date": "2025-06-21T15:41:00Z",
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "Gandi 惹惱了我😡——怒將域名轉至 Dynadot",
+    "link": "https://blog.kyomind.tw/weekly-review-44/",
+    "date": "2025-06-21T08:45:35Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "為 e2-micro VM 建立 SSH 連線：本機與 GitHub",
+    "link": "https://blog.kyomind.tw/vm-ssh-setup/",
+    "date": "2025-06-14T02:59:31Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "Imgur 封鎖台灣 IP，我把圖床搬到 Cloudflare R2",
+    "link": "https://blog.kyomind.tw/weekly-review-43/",
+    "date": "2025-06-07T03:00:10Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "所以說，資工系要做專題還是去公司實習？",
+    "link": "https://titaliu1224.github.io/posts/intern_or_project/",
+    "date": "2025-05-02T10:29:00Z",
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "NanoGPT Speedrun Living Worklog",
+    "link": "https://tylerromero.com/posts/nanogpt-speedrun-worklog/",
+    "date": "2025-03-08T08:00:00Z",
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
+    "title": "咕咕了一年的新个人主页介绍",
+    "link": "https://idealclover.top/archives/643/",
+    "date": "2025-03-07T12:00:00Z",
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "Reducing VRAM Footprint in PPO and GRPO Using Selective Log-Softmax",
+    "link": "https://tylerromero.com/posts/2025-02-selective-log-softmax/",
+    "date": "2025-02-06T08:00:00Z",
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
+    "title": "Leverage in Etfs Investment",
+    "link": "https://light.ryankert.cc/p/leverage-in-etfs-investment/",
+    "date": "2025-01-31T01:46:50Z",
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "An Extension to BADGE Active Learning for Variable-Sized Batches",
+    "link": "https://tylerromero.com/posts/2025-01-badge-extension/",
+    "date": "2025-01-05T08:00:00Z",
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
+    "title": "所以我放弃了双持—兼谈折叠屏手机使用体验",
+    "link": "https://idealclover.top/archives/642/",
+    "date": "2024-12-31T11:38:00Z",
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "好评喵：轻松生成商品/服务评价",
+    "link": "https://idealclover.top/archives/641/",
+    "date": "2024-11-17T07:17:00Z",
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "2024 Q3总结：灰烬里重新生根发芽",
+    "link": "https://idealclover.top/archives/640/",
+    "date": "2024-11-09T10:30:00Z",
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "Unexpected TLE on Leetcode 2641. Cousins in Binary Tree II",
+    "link": "https://light.ryankert.cc/p/unexpected-tle-on-leetcode-2641.-cousins-in-binary-tree-ii/",
+    "date": "2024-10-23T04:00:51Z",
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "应急储备包制作经验分享：打造个人应急“救生圈”",
+    "link": "https://idealclover.top/archives/639/",
+    "date": "2024-09-30T10:10:00Z",
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "Apache Yunikorn 的 Preemption 機制",
+    "link": "https://light.ryankert.cc/p/apache-yunikorn-%E7%9A%84-preemption-%E6%A9%9F%E5%88%B6/",
+    "date": "2024-09-17T03:42:24Z",
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "新加坡商鈦坦科技學期實習生面試心得",
+    "link": "https://titaliu1224.github.io/posts/titansoft-pd-intern-interview/",
+    "date": "2024-08-23T10:53:00Z",
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "在 .NET Web API 中，使用 JSON 傳遞簡單型態的參數",
+    "link": "https://titaliu1224.github.io/posts/pass_simple_type_parameter_in_dotnet/",
+    "date": "2024-04-17T04:53:00Z",
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "Direct Preference Optimization Explained In-depth",
+    "link": "https://tylerromero.com/posts/2024-04-dpo/",
+    "date": "2024-04-13T08:00:00Z",
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
+    "title": "RISC V: Tips and Tricks",
+    "link": "https://light.ryankert.cc/p/risc-v-tips-and-tricks/",
+    "date": "2024-03-27T12:45:51Z",
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "RISC-V: Use Stack to Store Return Address",
+    "link": "https://light.ryankert.cc/p/risc-v-use-stack-to-store-return-address/",
+    "date": "2024-03-27T09:56:44Z",
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  }
+]

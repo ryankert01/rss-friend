@@ -1,0 +1,332 @@
+[
+  {
+    "title": "2025 我離不開的 8 項付費訂閱",
+    "link": "https://blog.kyomind.tw/essential-subscriptions-2025/",
+    "year": 2025,
+    "month": 9,
+    "day": 20,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "再赴一场盛夏：写给下一个五年",
+    "link": "https://idealclover.top/archives/644/",
+    "year": 2025,
+    "month": 8,
+    "day": 31,
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "用 Side Project 學 CI：WeaMind 的 CI 實作策略",
+    "link": "https://blog.kyomind.tw/weamind-ci/",
+    "year": 2025,
+    "month": 8,
+    "day": 31,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "在 Hetzner 開新 VM 指南：選機房、SSH 連線、設定防火牆",
+    "link": "https://blog.kyomind.tw/hetzner-vm/",
+    "year": 2025,
+    "month": 7,
+    "day": 27,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "uv 容器化實作：使用官方 image 建立 Dockerfile",
+    "link": "https://blog.kyomind.tw/uv-dockerfile/",
+    "year": 2025,
+    "month": 7,
+    "day": 19,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "Vibe Coding 與人類的時代",
+    "link": "https://blog.kyomind.tw/vibe-coding/",
+    "year": 2025,
+    "month": 7,
+    "day": 10,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "GitHub Actions 入門：自動化 Lint、Format 與 Type Check",
+    "link": "https://blog.kyomind.tw/github-actions/",
+    "year": 2025,
+    "month": 7,
+    "day": 6,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "GPU 100 day challenge - Mojo gpu puzzle: GPU fundamental",
+    "link": "https://light.ryankert.cc/p/gpu-100-day-challenge-mojo-gpu-puzzle-gpu-fundamental/",
+    "year": 2025,
+    "month": 6,
+    "day": 29,
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "yadm 教學：實作 macOS 與 Linux 的 dotfiles 跨平台同步",
+    "link": "https://blog.kyomind.tw/yadm-cross-platform/",
+    "year": 2025,
+    "month": 6,
+    "day": 28,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "客製化 PowerShell！讓你的終端變得好看又好用",
+    "link": "https://titaliu1224.github.io/posts/customize_your_powershell/",
+    "year": 2025,
+    "month": 6,
+    "day": 21,
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "Gandi 惹惱了我😡——怒將域名轉至 Dynadot",
+    "link": "https://blog.kyomind.tw/weekly-review-44/",
+    "year": 2025,
+    "month": 6,
+    "day": 21,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "為 e2-micro VM 建立 SSH 連線：本機與 GitHub",
+    "link": "https://blog.kyomind.tw/vm-ssh-setup/",
+    "year": 2025,
+    "month": 6,
+    "day": 14,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "Imgur 封鎖台灣 IP，我把圖床搬到 Cloudflare R2",
+    "link": "https://blog.kyomind.tw/weekly-review-43/",
+    "year": 2025,
+    "month": 6,
+    "day": 7,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
+    "title": "所以說，資工系要做專題還是去公司實習？",
+    "link": "https://titaliu1224.github.io/posts/intern_or_project/",
+    "year": 2025,
+    "month": 5,
+    "day": 2,
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "NanoGPT Speedrun Living Worklog",
+    "link": "https://tylerromero.com/posts/nanogpt-speedrun-worklog/",
+    "year": 2025,
+    "month": 3,
+    "day": 8,
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
+    "title": "咕咕了一年的新个人主页介绍",
+    "link": "https://idealclover.top/archives/643/",
+    "year": 2025,
+    "month": 3,
+    "day": 7,
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "Reducing VRAM Footprint in PPO and GRPO Using Selective Log-Softmax",
+    "link": "https://tylerromero.com/posts/2025-02-selective-log-softmax/",
+    "year": 2025,
+    "month": 2,
+    "day": 6,
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
+    "title": "Leverage in Etfs Investment",
+    "link": "https://light.ryankert.cc/p/leverage-in-etfs-investment/",
+    "year": 2025,
+    "month": 1,
+    "day": 31,
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "An Extension to BADGE Active Learning for Variable-Sized Batches",
+    "link": "https://tylerromero.com/posts/2025-01-badge-extension/",
+    "year": 2025,
+    "month": 1,
+    "day": 5,
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
+    "title": "所以我放弃了双持—兼谈折叠屏手机使用体验",
+    "link": "https://idealclover.top/archives/642/",
+    "year": 2024,
+    "month": 12,
+    "day": 31,
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "好评喵：轻松生成商品/服务评价",
+    "link": "https://idealclover.top/archives/641/",
+    "year": 2024,
+    "month": 11,
+    "day": 17,
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "2024 Q3总结：灰烬里重新生根发芽",
+    "link": "https://idealclover.top/archives/640/",
+    "year": 2024,
+    "month": 11,
+    "day": 9,
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "Unexpected TLE on Leetcode 2641. Cousins in Binary Tree II",
+    "link": "https://light.ryankert.cc/p/unexpected-tle-on-leetcode-2641.-cousins-in-binary-tree-ii/",
+    "year": 2024,
+    "month": 10,
+    "day": 23,
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "应急储备包制作经验分享：打造个人应急“救生圈”",
+    "link": "https://idealclover.top/archives/639/",
+    "year": 2024,
+    "month": 9,
+    "day": 30,
+    "author": {
+      "name": "idealclover",
+      "link": "https://idealclover.top/"
+    }
+  },
+  {
+    "title": "Apache Yunikorn 的 Preemption 機制",
+    "link": "https://light.ryankert.cc/p/apache-yunikorn-%E7%9A%84-preemption-%E6%A9%9F%E5%88%B6/",
+    "year": 2024,
+    "month": 9,
+    "day": 17,
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "新加坡商鈦坦科技學期實習生面試心得",
+    "link": "https://titaliu1224.github.io/posts/titansoft-pd-intern-interview/",
+    "year": 2024,
+    "month": 8,
+    "day": 23,
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "在 .NET Web API 中，使用 JSON 傳遞簡單型態的參數",
+    "link": "https://titaliu1224.github.io/posts/pass_simple_type_parameter_in_dotnet/",
+    "year": 2024,
+    "month": 4,
+    "day": 17,
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "Direct Preference Optimization Explained In-depth",
+    "link": "https://tylerromero.com/posts/2024-04-dpo/",
+    "year": 2024,
+    "month": 4,
+    "day": 13,
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
+    "title": "RISC V: Tips and Tricks",
+    "link": "https://light.ryankert.cc/p/risc-v-tips-and-tricks/",
+    "year": 2024,
+    "month": 3,
+    "day": 27,
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
+    "title": "RISC-V: Use Stack to Store Return Address",
+    "link": "https://light.ryankert.cc/p/risc-v-use-stack-to-store-return-address/",
+    "year": 2024,
+    "month": 3,
+    "day": 27,
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  }
+]
