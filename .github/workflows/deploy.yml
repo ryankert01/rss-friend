@@ -16,16 +16,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-python@v3
         with:
-          node-version: 16
-      - run: npm i
-      - name: Compile
-        run: npm run compile
+          python-version: 3.9
+      - run: pip install -r requirements.txt
       - name: Generate JSON
-        run: npm run start
+        run: python src/main.py
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist/assets
+          publish_dir: ./src/assets

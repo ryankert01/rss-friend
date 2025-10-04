@@ -77,17 +77,12 @@ https://ryankert01.github.io/rss-friend/unsort.json
 ### To install dependencies
 
 ```zsh
-npm i
+pip install -r requirements.txt
 ```
 
 ### To generate JSON file
 
-compile typescript to javascript
-```zsh
-npm run compile
-```
-
 run the script to generate JSON file
 ```zsh
-npm run start
+python src/main.py
 ```
