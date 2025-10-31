@@ -1,6 +1,15 @@
 [
   {
-    "title": "客製化 PowerShell！讓你的終端變得好看又好用",
+    "title": "Bowling Kata - TDD 小白的 Dojo 體驗",
+    "link": "https://titaliu1224.github.io/posts/bowling-kata-tdd/",
+    "date": "2025-10-11T10:35:00Z",
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "客製化 PowerShell！讓終端變得好看又好用",
     "link": "https://titaliu1224.github.io/posts/customize_your_powershell/",
     "date": "2025-06-21T15:41:00Z",
     "author": {
@@ -30,15 +39,6 @@
     "title": "在 .NET Web API 中，使用 JSON 傳遞簡單型態的參數",
     "link": "https://titaliu1224.github.io/posts/pass_simple_type_parameter_in_dotnet/",
     "date": "2024-04-17T04:53:00Z",
-    "author": {
-      "name": "tita's Blog",
-      "link": "https://titaliu1224.github.io/"
-    }
-  },
-  {
-    "title": "《元得要命小鎮的聖誕危機》之誕生日誌（下）",
-    "link": "https://titaliu1224.github.io/posts/christmas_project_tech/",
-    "date": "2024-01-18T18:30:00Z",
     "author": {
       "name": "tita's Blog",
       "link": "https://titaliu1224.github.io/"

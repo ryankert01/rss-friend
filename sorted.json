@@ -1,5 +1,14 @@
 [
   {
+    "title": "Bowling Kata - TDD 小白的 Dojo 體驗",
+    "link": "https://titaliu1224.github.io/posts/bowling-kata-tdd/",
+    "date": "2025-10-11T10:35:00Z",
+    "author": {
+      "name": "tita's Blog",
+      "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
     "title": "2025 我離不開的 8 項付費訂閱",
     "link": "https://blog.kyomind.tw/essential-subscriptions-2025/",
     "date": "2025-09-20T00:42:48Z",
@@ -81,7 +90,7 @@
     }
   },
   {
-    "title": "客製化 PowerShell！讓你的終端變得好看又好用",
+    "title": "客製化 PowerShell！讓終端變得好看又好用",
     "link": "https://titaliu1224.github.io/posts/customize_your_powershell/",
     "date": "2025-06-21T15:41:00Z",
     "author": {
@@ -255,15 +264,6 @@
     "title": "RISC V: Tips and Tricks",
     "link": "https://light.ryankert.cc/p/risc-v-tips-and-tricks/",
     "date": "2024-03-27T12:45:51Z",
-    "author": {
-      "name": "Ryan Lite",
-      "link": "https://light.ryankert.cc/"
-    }
-  },
-  {
-    "title": "RISC-V: Use Stack to Store Return Address",
-    "link": "https://light.ryankert.cc/p/risc-v-use-stack-to-store-return-address/",
-    "date": "2024-03-27T09:56:44Z",
     "author": {
       "name": "Ryan Lite",
       "link": "https://light.ryankert.cc/"
