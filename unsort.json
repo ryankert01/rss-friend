@@ -45,6 +45,132 @@
     }
   },
   {
+    "title": "UVA - 12911 Subset Sum",
+    "link": "https://blog.ryankert.cc/2023/01/31/data_structure/uva-12911/",
+    "date": "2023-01-31T22:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "UVA - 11659 Informant",
+    "link": "https://blog.ryankert.cc/2023/01/27/data_structure/uva-11659/",
+    "date": "2023-01-27T13:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "UVA - 1640 The Counting Problem",
+    "link": "https://blog.ryankert.cc/2023/01/26/data_structure/uva-1640/",
+    "date": "2023-01-26T21:30:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "UVA - 10326 The Polynomial Equation",
+    "link": "https://blog.ryankert.cc/2023/01/24/data_structure/uva-10326/",
+    "date": "2023-01-24T21:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "UVA - 12627 Erratic Expansion",
+    "link": "https://blog.ryankert.cc/2023/01/24/data_structure/uva-12627/",
+    "date": "2023-01-24T21:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "UVA - 437 The Tower of Babylon",
+    "link": "https://blog.ryankert.cc/2023/01/23/data_structure/uva-437/",
+    "date": "2023-01-23T21:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "2022/12/13 CPE",
+    "link": "https://blog.ryankert.cc/2023/01/22/data_structure/cpe20221213/",
+    "date": "2023-01-22T19:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "UVA 10801 Lift Hopping",
+    "link": "https://blog.ryankert.cc/2022/12/19/uva10801/",
+    "date": "2022-12-19T09:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "DFS Algorithms",
+    "link": "https://blog.ryankert.cc/2022/12/08/data_structure/dfs/",
+    "date": "2022-12-08T09:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "Collect you and your friends' blog posts via blogroll",
+    "link": "https://blog.ryankert.cc/2022/09/01/blogroll-setup/",
+    "date": "2022-09-01T20:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "How to setup a typescript Project as fast as possible",
+    "link": "https://blog.ryankert.cc/2022/09/01/setup-ts-project/",
+    "date": "2022-09-01T20:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "Switching to Hexo!",
+    "link": "https://blog.ryankert.cc/2022/07/13/hello-world/",
+    "date": "2022-07-13T20:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "Youtube Thumbnail Scraping",
+    "link": "https://blog.ryankert.cc/2022/04/20/youtube-thumbnail-scraping/",
+    "date": "2022-04-20T20:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
+    "title": "Download Google font and use it in offline html",
+    "link": "https://blog.ryankert.cc/2022/04/18/google-font-offline/",
+    "date": "2022-04-18T20:46:25Z",
+    "author": {
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
+    }
+  },
+  {
     "title": "再赴一场盛夏：写给下一个五年",
     "link": "https://idealclover.top/archives/644/",
     "date": "2025-08-31T13:25:00Z",

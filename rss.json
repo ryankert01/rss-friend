@@ -297,36 +297,36 @@
     }
   },
   {
-    "title": "記 2023",
-    "link": "https://luke2336.github.io/p/2023/",
+    "title": "UVA - 12911 Subset Sum",
+    "link": "https://blog.ryankert.cc/2023/01/31/data_structure/uva-12911/",
     "year": 2023,
     "month": 1,
-    "day": 25,
+    "day": 31,
     "author": {
-      "name": "Luke",
-      "link": "https://luke2336.github.io/"
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
     }
   },
   {
-    "title": "2023 家庭旅遊 - 東京六天五夜",
-    "link": "https://luke2336.github.io/p/202301_tokyo/",
+    "title": "UVA - 11659 Informant",
+    "link": "https://blog.ryankert.cc/2023/01/27/data_structure/uva-11659/",
     "year": 2023,
     "month": 1,
-    "day": 25,
+    "day": 27,
     "author": {
-      "name": "Luke",
-      "link": "https://luke2336.github.io/"
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
     }
   },
   {
-    "title": "記 2022",
-    "link": "https://luke2336.github.io/p/2022/",
-    "year": 2022,
-    "month": 12,
-    "day": 30,
+    "title": "UVA - 1640 The Counting Problem",
+    "link": "https://blog.ryankert.cc/2023/01/26/data_structure/uva-1640/",
+    "year": 2023,
+    "month": 1,
+    "day": 26,
     "author": {
-      "name": "Luke",
-      "link": "https://luke2336.github.io/"
+      "name": "Ryan's Blog",
+      "link": "https://blog.ryankert.cc/"
     }
   }
 ]
