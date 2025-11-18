@@ -78,6 +78,7 @@ https://ryankert01.github.io/rss-friend/unsort.json
 
 ```zsh
 pip install -r requirements.txt
+pip install -r requirements-dev.txt  # For testing
 ```
 
 ### To generate JSON file
@@ -86,3 +87,38 @@ run the script to generate JSON file
 ```zsh
 python src/main.py
 ```
+
+### To run tests
+
+Run the unit tests with pytest:
+```zsh
+pytest
+```
+
+Run tests with coverage report:
+```zsh
+pytest --cov=src --cov-report=html
+```
+
+## Project Structure
+
+```
+rss-friend/
+├── src/
+│   ├── __init__.py
+│   ├── main.py              # Main entry point
+│   └── rss_aggregator.py    # Core RSS aggregation logic
+├── tests/
+│   ├── __init__.py
+│   └── test_rss_aggregator.py  # Unit tests
+├── _data/
+│   └── friends.json          # Configuration for RSS feeds
+├── requirements.txt          # Production dependencies
+├── requirements-dev.txt      # Development dependencies
+└── pytest.ini                # Pytest configuration
+```
+
+## CI/CD
+
+- **Test Workflow**: Runs automatically on pull requests and commits to main/develop branches
+- **Deploy Workflow**: Runs on push to main branch and scheduled twice daily (10:00 and 22:00 UTC)

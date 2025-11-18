@@ -1,10 +1,7 @@
-name: scrape rss from friends
+name: Deploy RSS Feed
 
 on:
   push:
-    branches:
-      - main
-  pull_request:
     branches:
       - main
   schedule:
