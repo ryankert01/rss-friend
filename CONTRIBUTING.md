@@ -55,7 +55,7 @@ pytest tests/test_rss_aggregator.py::TestParseRssFeed::test_parses_valid_rss_fee
 6. Submit a pull request
 
 The CI will automatically:
-- Run tests on Python 3.9, 3.10, and 3.11
+- Run tests on Python 3.11
 - Generate coverage reports
 - Check code quality
 

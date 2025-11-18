@@ -1,12 +1,9 @@
 """Unit tests for RSS aggregator module."""
 
 import json
-import tempfile
 import time
-from pathlib import Path
-from unittest.mock import Mock, patch, MagicMock
+from unittest.mock import Mock, patch
 import pytest
-import feedparser
 
 from src.rss_aggregator import (
     ensure_directory_exists,
