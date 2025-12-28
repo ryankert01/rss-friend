@@ -504,6 +504,15 @@
     }
   },
   {
+    "title": "我可能會付費 Perplexity",
+    "link": "https://blog.kyomind.tw/perplexity/",
+    "date": "2025-12-28T14:29:52Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "2025 我離不開的 8 項付費訂閱",
     "link": "https://blog.kyomind.tw/essential-subscriptions-2025/",
     "date": "2025-09-20T00:42:48Z",
@@ -579,15 +588,6 @@
     "title": "為 e2-micro VM 建立 SSH 連線：本機與 GitHub",
     "link": "https://blog.kyomind.tw/vm-ssh-setup/",
     "date": "2025-06-14T02:59:31Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "Imgur 封鎖台灣 IP，我把圖床搬到 Cloudflare R2",
-    "link": "https://blog.kyomind.tw/weekly-review-43/",
-    "date": "2025-06-07T03:00:10Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"

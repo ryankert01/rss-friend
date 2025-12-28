@@ -1,5 +1,16 @@
 [
   {
+    "title": "我可能會付費 Perplexity",
+    "link": "https://blog.kyomind.tw/perplexity/",
+    "year": 2025,
+    "month": 12,
+    "day": 28,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "Bowling Kata - TDD 小白的 Dojo 體驗",
     "link": "https://titaliu1224.github.io/posts/bowling-kata-tdd/",
     "year": 2025,
@@ -137,17 +148,6 @@
     "year": 2025,
     "month": 6,
     "day": 14,
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "Imgur 封鎖台灣 IP，我把圖床搬到 Cloudflare R2",
-    "link": "https://blog.kyomind.tw/weekly-review-43/",
-    "year": 2025,
-    "month": 6,
-    "day": 7,
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
