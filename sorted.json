@@ -1,5 +1,14 @@
 [
   {
+    "title": "Thinking about Scaling Laws",
+    "link": "https://tylerromero.com/posts/2026-01-scaling-laws/",
+    "date": "2026-01-10T08:00:00Z",
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
     "title": "我可能會付費 Perplexity",
     "link": "https://blog.kyomind.tw/perplexity/",
     "date": "2025-12-28T14:29:52Z",
@@ -258,15 +267,6 @@
     "author": {
       "name": "Tyler Romero",
       "link": "https://www.tylerromero.com/"
-    }
-  },
-  {
-    "title": "RISC V: Tips and Tricks",
-    "link": "https://light.ryankert.cc/p/risc-v-tips-and-tricks/",
-    "date": "2024-03-27T12:45:51Z",
-    "author": {
-      "name": "Ryan Lite",
-      "link": "https://light.ryankert.cc/"
     }
   }
 ]
