@@ -11,17 +11,6 @@
     }
   },
   {
-    "title": "Thinking about Scaling Laws",
-    "link": "https://tylerromero.com/posts/2026-01-scaling-laws/",
-    "year": 2026,
-    "month": 1,
-    "day": 10,
-    "author": {
-      "name": "Tyler Romero",
-      "link": "https://www.tylerromero.com/"
-    }
-  },
-  {
     "title": "我可能「不會」付費 Perplexity",
     "link": "https://blog.kyomind.tw/perplexity/",
     "year": 2025,
@@ -327,6 +316,17 @@
     "author": {
       "name": "tita's Blog",
       "link": "https://titaliu1224.github.io/"
+    }
+  },
+  {
+    "title": "Direct Preference Optimization Explained In-depth",
+    "link": "https://tylerromero.com/posts/2024-04-dpo/",
+    "year": 2024,
+    "month": 4,
+    "day": 13,
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
     }
   }
 ]
