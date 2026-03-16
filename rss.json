@@ -1,5 +1,16 @@
 [
   {
+    "title": "WeaMind 專案解析：從單機 LINE Bot 到 K8s 叢集",
+    "link": "https://blog.kyomind.tw/weamind/",
+    "year": 2026,
+    "month": 3,
+    "day": 16,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "关于AI的一些形而上思考",
     "link": "https://idealclover.top/archives/647/",
     "year": 2026,
@@ -159,17 +170,6 @@
     "year": 2025,
     "month": 6,
     "day": 21,
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "為 e2-micro VM 建立 SSH 連線：本機與 GitHub",
-    "link": "https://blog.kyomind.tw/vm-ssh-setup/",
-    "year": 2025,
-    "month": 6,
-    "day": 14,
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"

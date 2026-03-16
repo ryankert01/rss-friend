@@ -504,6 +504,15 @@
     }
   },
   {
+    "title": "WeaMind 專案解析：從單機 LINE Bot 到 K8s 叢集",
+    "link": "https://blog.kyomind.tw/weamind/",
+    "date": "2026-03-16T08:02:49Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "我可能「不會」付費 Perplexity",
     "link": "https://blog.kyomind.tw/perplexity/",
     "date": "2025-12-28T14:29:52Z",
@@ -579,15 +588,6 @@
     "title": "將域名註冊移轉至 Dynadot",
     "link": "https://blog.kyomind.tw/weekly-review-44/",
     "date": "2025-06-21T08:45:35Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "為 e2-micro VM 建立 SSH 連線：本機與 GitHub",
-    "link": "https://blog.kyomind.tw/vm-ssh-setup/",
-    "date": "2025-06-14T02:59:31Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
