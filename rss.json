@@ -1,5 +1,16 @@
 [
   {
+    "title": "細數我過去的待業時光（二）律師國考與告別法律",
+    "link": "https://blog.kyomind.tw/orange-days-02/",
+    "year": 2026,
+    "month": 3,
+    "day": 21,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "WeaMind 專案解析：從單機 LINE Bot 到 K8s 叢集",
     "link": "https://blog.kyomind.tw/weamind/",
     "year": 2026,
@@ -162,17 +173,6 @@
     "author": {
       "name": "tita's Blog",
       "link": "https://titaliu1224.github.io/"
-    }
-  },
-  {
-    "title": "將域名註冊移轉至 Dynadot",
-    "link": "https://blog.kyomind.tw/weekly-review-44/",
-    "year": 2025,
-    "month": 6,
-    "day": 21,
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
     }
   },
   {
