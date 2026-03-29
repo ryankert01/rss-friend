@@ -504,6 +504,15 @@
     }
   },
   {
+    "title": "K3s 是什麼？為什麼我選擇用 K3s 部署 WeaMind",
+    "link": "https://blog.kyomind.tw/k3s-for-weamind/",
+    "date": "2026-03-29T04:54:39Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "細數我過去的待業時光（二）律師國考與告別法律",
     "link": "https://blog.kyomind.tw/orange-days-02/",
     "date": "2026-03-21T04:13:05Z",
@@ -579,15 +588,6 @@
     "title": "GitHub Actions 入門：自動化 Lint、Format 與 Type Check",
     "link": "https://blog.kyomind.tw/github-actions/",
     "date": "2025-07-06T02:31:27Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "yadm 教學：實作 macOS 與 Linux 的 dotfiles 跨平台同步",
-    "link": "https://blog.kyomind.tw/yadm-cross-platform/",
-    "date": "2025-06-28T15:01:29Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
