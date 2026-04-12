@@ -1,5 +1,14 @@
 [
   {
+    "title": "Kubernetes 視覺化工具怎麼選？初學者的 GUI、TUI 指南",
+    "link": "https://blog.kyomind.tw/kubernetes-gui-tui-guide/",
+    "date": "2026-04-12T09:30:22Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "K3s 是什麼？為什麼我選擇用 K3s 部署 WeaMind",
     "link": "https://blog.kyomind.tw/k3s-for-weamind/",
     "date": "2026-03-29T04:54:39Z",
@@ -111,15 +120,6 @@
     "title": "Vibe Coding 與人類的時代",
     "link": "https://blog.kyomind.tw/vibe-coding/",
     "date": "2025-07-10T14:22:29Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "GitHub Actions 入門：自動化 Lint、Format 與 Type Check",
-    "link": "https://blog.kyomind.tw/github-actions/",
-    "date": "2025-07-06T02:31:27Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"

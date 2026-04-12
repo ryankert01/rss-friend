@@ -1,5 +1,16 @@
 [
   {
+    "title": "Kubernetes 視覺化工具怎麼選？初學者的 GUI、TUI 指南",
+    "link": "https://blog.kyomind.tw/kubernetes-gui-tui-guide/",
+    "year": 2026,
+    "month": 4,
+    "day": 12,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "K3s 是什麼？為什麼我選擇用 K3s 部署 WeaMind",
     "link": "https://blog.kyomind.tw/k3s-for-weamind/",
     "year": 2026,
@@ -137,17 +148,6 @@
     "year": 2025,
     "month": 7,
     "day": 10,
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "GitHub Actions 入門：自動化 Lint、Format 與 Type Check",
-    "link": "https://blog.kyomind.tw/github-actions/",
-    "year": 2025,
-    "month": 7,
-    "day": 6,
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
