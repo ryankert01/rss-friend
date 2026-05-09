@@ -1,5 +1,16 @@
 [
   {
+    "title": "Wrapping Up My Journey Contributing to Apache Mahout",
+    "link": "https://light.ryankert.cc/p/wrapping-up-my-journey-contributing-to-apache-mahout/",
+    "year": 2026,
+    "month": 5,
+    "day": 9,
+    "author": {
+      "name": "Ryan Lite",
+      "link": "https://light.ryankert.cc/"
+    }
+  },
+  {
     "title": "你的数据非常重要：个人知识库管理实践",
     "link": "https://idealclover.top/archives/648/",
     "year": 2026,
@@ -316,17 +327,6 @@
     "author": {
       "name": "Ryan Lite",
       "link": "https://light.ryankert.cc/"
-    }
-  },
-  {
-    "title": "新加坡商鈦坦科技學期實習生面試心得",
-    "link": "https://titaliu1224.github.io/posts/titansoft-pd-intern-interview/",
-    "year": 2024,
-    "month": 8,
-    "day": 23,
-    "author": {
-      "name": "tita's Blog",
-      "link": "https://titaliu1224.github.io/"
     }
   }
 ]
