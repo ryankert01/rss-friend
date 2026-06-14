@@ -1,5 +1,14 @@
 [
   {
+    "title": "我 40 歲，主動離職，All in DevOps",
+    "link": "https://blog.kyomind.tw/all-in-on-devops/",
+    "date": "2026-06-14T05:03:39Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "【27岁生贺】1，6，8，10，27，10000",
     "link": "https://idealclover.top/archives/649/",
     "date": "2026-05-18T14:11:00Z",
@@ -138,15 +147,6 @@
     "title": "uv 容器化實作：使用官方 image 建立 Dockerfile",
     "link": "https://blog.kyomind.tw/uv-dockerfile/",
     "date": "2025-07-19T07:15:27Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "Vibe Coding 與人類的時代",
-    "link": "https://blog.kyomind.tw/vibe-coding/",
-    "date": "2025-07-10T14:22:29Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
