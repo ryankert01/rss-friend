@@ -1,5 +1,14 @@
 [
   {
+    "title": "我退訂了 GitHub Copilot",
+    "link": "https://blog.kyomind.tw/unsubscribe-github-copilot/",
+    "date": "2026-06-18T07:30:36Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "我 40 歲，主動離職，All in DevOps",
     "link": "https://blog.kyomind.tw/all-in-on-devops/",
     "date": "2026-06-14T05:03:39Z",
@@ -138,15 +147,6 @@
     "title": "在 Hetzner 開新 VM 指南：選機房、SSH 連線、設定防火牆",
     "link": "https://blog.kyomind.tw/hetzner-vm/",
     "date": "2025-07-27T15:03:31Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "uv 容器化實作：使用官方 image 建立 Dockerfile",
-    "link": "https://blog.kyomind.tw/uv-dockerfile/",
-    "date": "2025-07-19T07:15:27Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
