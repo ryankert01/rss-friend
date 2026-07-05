@@ -1,5 +1,14 @@
 [
   {
+    "title": "WeaMind Infra 介紹：VM、Load Balancer 與雲端架構",
+    "link": "https://blog.kyomind.tw/weamind-infra/",
+    "date": "2026-07-05T06:29:12Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "我退訂了 GitHub Copilot",
     "link": "https://blog.kyomind.tw/unsubscribe-github-copilot/",
     "date": "2026-06-18T07:30:36Z",
@@ -11,7 +20,7 @@
   {
     "title": "我 40 歲，主動離職，All in DevOps",
     "link": "https://blog.kyomind.tw/all-in-on-devops/",
-    "date": "2026-06-14T05:03:39Z",
+    "date": "2026-06-14T05:03:30Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
@@ -138,15 +147,6 @@
     "title": "用 Side Project 學 CI：WeaMind 的 CI 實作策略",
     "link": "https://blog.kyomind.tw/weamind-ci/",
     "date": "2025-08-31T06:56:59Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "在 Hetzner 開新 VM 指南：選機房、SSH 連線、設定防火牆",
-    "link": "https://blog.kyomind.tw/hetzner-vm/",
-    "date": "2025-07-27T15:03:31Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
