@@ -513,6 +513,15 @@
     }
   },
   {
+    "title": "為你的 AI Agent 掛上 Hooks 吧！",
+    "link": "https://blog.kyomind.tw/agent-hooks/",
+    "date": "2026-07-10T02:16:55Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "WeaMind Infra 介紹：VM、Load Balancer 與雲端架構",
     "link": "https://blog.kyomind.tw/weamind-infra/",
     "date": "2026-07-05T06:29:12Z",
@@ -588,15 +597,6 @@
     "title": "2025 我離不開的 8 項付費訂閱",
     "link": "https://blog.kyomind.tw/essential-subscriptions-2025/",
     "date": "2025-09-20T00:42:48Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "用 Side Project 學 CI：WeaMind 的 CI 實作策略",
-    "link": "https://blog.kyomind.tw/weamind-ci/",
-    "date": "2025-08-31T06:56:59Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
