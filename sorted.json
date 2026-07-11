@@ -1,5 +1,14 @@
 [
   {
+    "title": "Hermes Agent 新手指南：從入門到進階的 10 個設定",
+    "link": "https://blog.kyomind.tw/hermes-agent/",
+    "date": "2026-07-11T17:00:35Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "告別 ClickOps：用 Terraform 重建 GCP 免費 VM",
     "link": "https://blog.kyomind.tw/terraform-gcp-free-tier-vm/",
     "date": "2026-07-11T00:21:15Z",
@@ -123,15 +132,6 @@
     "author": {
       "name": "idealclover",
       "link": "https://idealclover.top/"
-    }
-  },
-  {
-    "title": "我可能「不會」付費 Perplexity",
-    "link": "https://blog.kyomind.tw/perplexity/",
-    "date": "2025-12-28T14:29:52Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
     }
   },
   {
