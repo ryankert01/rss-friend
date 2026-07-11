@@ -1,5 +1,16 @@
 [
   {
+    "title": "告別 ClickOps：用 Terraform 重建 GCP 免費 VM",
+    "link": "https://blog.kyomind.tw/terraform-gcp-free-tier-vm/",
+    "year": 2026,
+    "month": 7,
+    "day": 11,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "為你的 AI Agent 掛上 Hooks 吧！",
     "link": "https://blog.kyomind.tw/agent-hooks/",
     "year": 2026,
@@ -162,17 +173,6 @@
     "author": {
       "name": "tita's Blog",
       "link": "https://titaliu1224.github.io/"
-    }
-  },
-  {
-    "title": "2025 我離不開的 8 項付費訂閱",
-    "link": "https://blog.kyomind.tw/essential-subscriptions-2025/",
-    "year": 2025,
-    "month": 9,
-    "day": 20,
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
     }
   },
   {
