@@ -1,5 +1,16 @@
 [
   {
+    "title": "Policy Gradient for LLMs, Explained Visually",
+    "link": "https://tylerromero.com/posts/2026-09-policy-gradient/",
+    "year": 2026,
+    "month": 9,
+    "day": 27,
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
     "title": "Hermes Agent 新手指南：從入門到進階的 10 個設定",
     "link": "https://blog.kyomind.tw/hermes-agent/",
     "year": 2026,
@@ -316,17 +327,6 @@
     "author": {
       "name": "Ryan Lite",
       "link": "https://light.ryankert.cc/"
-    }
-  },
-  {
-    "title": "应急储备包制作经验分享：打造个人应急“救生圈”",
-    "link": "https://idealclover.top/archives/639/",
-    "year": 2024,
-    "month": 9,
-    "day": 30,
-    "author": {
-      "name": "idealclover",
-      "link": "https://idealclover.top/"
     }
   }
 ]

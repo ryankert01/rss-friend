@@ -477,6 +477,15 @@
     }
   },
   {
+    "title": "Policy Gradient for LLMs, Explained Visually",
+    "link": "https://tylerromero.com/posts/2026-09-policy-gradient/",
+    "date": "2026-09-27T07:00:00Z",
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
     "title": "NanoGPT Speedrun Worklog",
     "link": "https://tylerromero.com/posts/nanogpt-speedrun-worklog/",
     "date": "2025-03-08T08:00:00Z",
