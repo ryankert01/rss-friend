@@ -1,5 +1,14 @@
 [
   {
+    "title": "一波三折的 CKA 之旅",
+    "link": "https://blog.kyomind.tw/stumbling-on-cka/",
+    "date": "2026-10-03T16:31:50Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "Policy Gradient for LLMs, Explained Visually",
     "link": "https://tylerromero.com/posts/2026-09-policy-gradient/",
     "date": "2026-09-27T07:00:00Z",
@@ -111,15 +120,6 @@
     "title": "細數我過去的待業時光（二）律師國考與告別法律",
     "link": "https://blog.kyomind.tw/orange-days-02/",
     "date": "2026-03-21T04:13:05Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "WeaMind 專案解析：從單機 LINE Bot 到 K8s 叢集",
-    "link": "https://blog.kyomind.tw/weamind/",
-    "date": "2026-03-16T08:02:40Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"

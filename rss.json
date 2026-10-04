@@ -1,5 +1,16 @@
 [
   {
+    "title": "一波三折的 CKA 之旅",
+    "link": "https://blog.kyomind.tw/stumbling-on-cka/",
+    "year": 2026,
+    "month": 10,
+    "day": 3,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "Policy Gradient for LLMs, Explained Visually",
     "link": "https://tylerromero.com/posts/2026-09-policy-gradient/",
     "year": 2026,
@@ -137,17 +148,6 @@
     "year": 2026,
     "month": 3,
     "day": 21,
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "WeaMind 專案解析：從單機 LINE Bot 到 K8s 叢集",
-    "link": "https://blog.kyomind.tw/weamind/",
-    "year": 2026,
-    "month": 3,
-    "day": 16,
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
