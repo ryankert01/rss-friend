@@ -1,5 +1,14 @@
 [
   {
+    "title": "Off-Policy RL for LLMs, Explained Visually",
+    "link": "https://tylerromero.com/posts/2026-10-off-policy-rl/",
+    "date": "2026-10-25T07:00:00Z",
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
     "title": "一波三折的 CKA 之旅",
     "link": "https://blog.kyomind.tw/stumbling-on-cka/",
     "date": "2026-10-03T16:31:50Z",
@@ -258,15 +267,6 @@
     "author": {
       "name": "idealclover",
       "link": "https://idealclover.top/"
-    }
-  },
-  {
-    "title": "Unexpected TLE on Leetcode 2641. Cousins in Binary Tree II",
-    "link": "https://light.ryankert.cc/p/unexpected-tle-on-leetcode-2641.-cousins-in-binary-tree-ii/",
-    "date": "2024-10-23T04:00:51Z",
-    "author": {
-      "name": "Ryan Lite",
-      "link": "https://light.ryankert.cc/"
     }
   }
 ]

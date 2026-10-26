@@ -477,6 +477,15 @@
     }
   },
   {
+    "title": "Off-Policy RL for LLMs, Explained Visually",
+    "link": "https://tylerromero.com/posts/2026-10-off-policy-rl/",
+    "date": "2026-10-25T07:00:00Z",
+    "author": {
+      "name": "Tyler Romero",
+      "link": "https://www.tylerromero.com/"
+    }
+  },
+  {
     "title": "Policy Gradient for LLMs, Explained Visually",
     "link": "https://tylerromero.com/posts/2026-09-policy-gradient/",
     "date": "2026-09-27T07:00:00Z",
