@@ -531,6 +531,15 @@
     }
   },
   {
+    "title": "WeaMind CD 實戰：從 Docker Image 建置與發布到 Kubernetes 部署",
+    "link": "https://blog.kyomind.tw/weamind-cd/",
+    "date": "2026-10-30T05:58:56Z",
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "一波三折的 CKA 之旅",
     "link": "https://blog.kyomind.tw/stumbling-on-cka/",
     "date": "2026-10-03T16:31:50Z",
@@ -606,15 +615,6 @@
     "title": "K3s 是什麼？為什麼我選擇用 K3s 部署 WeaMind",
     "link": "https://blog.kyomind.tw/k3s-for-weamind/",
     "date": "2026-03-29T04:54:39Z",
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "細數我過去的待業時光（二）律師國考與告別法律",
-    "link": "https://blog.kyomind.tw/orange-days-02/",
-    "date": "2026-03-21T04:13:05Z",
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"

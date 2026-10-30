@@ -1,5 +1,16 @@
 [
   {
+    "title": "WeaMind CD 實戰：從 Docker Image 建置與發布到 Kubernetes 部署",
+    "link": "https://blog.kyomind.tw/weamind-cd/",
+    "year": 2026,
+    "month": 10,
+    "day": 30,
+    "author": {
+      "name": "Kyo",
+      "link": "https://blog.kyomind.tw/"
+    }
+  },
+  {
     "title": "Off-Policy RL for LLMs, Explained Visually",
     "link": "https://tylerromero.com/posts/2026-10-off-policy-rl/",
     "year": 2026,
@@ -148,17 +159,6 @@
     "year": 2026,
     "month": 3,
     "day": 29,
-    "author": {
-      "name": "Kyo",
-      "link": "https://blog.kyomind.tw/"
-    }
-  },
-  {
-    "title": "細數我過去的待業時光（二）律師國考與告別法律",
-    "link": "https://blog.kyomind.tw/orange-days-02/",
-    "year": 2026,
-    "month": 3,
-    "day": 21,
     "author": {
       "name": "Kyo",
       "link": "https://blog.kyomind.tw/"
